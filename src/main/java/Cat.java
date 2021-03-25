@@ -12,5 +12,4 @@ public class Cat {
         this.name = name;
     }
 
-
 }
